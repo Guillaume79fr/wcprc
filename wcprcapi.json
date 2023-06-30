@@ -1,0 +1,40 @@
+{
+  "Users":[
+    {
+      "UserId": "0",
+      "UserName": "Javaroski",
+      "UserMail": "guillaume79fr@gmail.com",
+      "UserPass": "admin123",
+      "UserCoinsA": "500",
+      "UserCoinsB": "500",
+      "UserTrophy": "500"
+    },
+    {
+      "UserId": "1",
+      "UserName": "Michel",
+      "UserMail": "michel79fr@gmail.com",
+      "UserPass": "admin123",
+      "UserCoinsA": "500",
+      "UserCoinsB": "500",
+      "UserTrophy": "500"
+    },
+    {
+      "UserId": "2",
+      "UserName": "Marc",
+      "UserMail": "marc79fr@gmail.com",
+      "UserPass": "admin123",
+      "UserCoinsA": "500",
+      "UserCoinsB": "500",
+      "UserTrophy": "500"
+    },
+    {
+      "UserId": "3",
+      "UserName": "Kader",
+      "UserMail": "kader79fr@gmail.com",
+      "UserPass": "admin123",
+      "UserCoinsA": "500",
+      "UserCoinsB": "500",
+      "UserTrophy": "500"
+    }
+  ]
+}
